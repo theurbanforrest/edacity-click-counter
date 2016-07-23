@@ -1,1 +1,1 @@
-# edacity-click-counter
+# udacity-click-counter
